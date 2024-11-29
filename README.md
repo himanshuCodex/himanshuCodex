@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanshuCodex
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and Learning AIs
 - 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on building full stack applications with the power of LLM.
 
